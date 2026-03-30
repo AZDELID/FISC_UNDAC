@@ -5,7 +5,7 @@
   import path from 'path';
 
   export default defineConfig({
-    base: '/FISC_UNDAC4/',
+    base: '/FISC_UNDAC/',
     plugins: [react(), tailwindcss()],
     resolve: {
       extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
